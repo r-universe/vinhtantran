@@ -1,0 +1,10 @@
+[
+  {
+    "package": "monoClust",
+    "oncran": true
+  },
+  {
+    "package": "puls",
+    "oncran": true
+  }
+]
